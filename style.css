@@ -35,15 +35,7 @@ div.left {
   flex: 1;
   height: auto;
 }
-div.center {
-  flex: 1;
-  height: auto;
-}
 div.right {
-  flex: 1;
-  height: auto;
-}
-div.end {
   flex: 1;
   height: auto;
 }
